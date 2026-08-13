@@ -57,7 +57,7 @@ marketplaces/ · ai-products/ · b2b/ · payments/ · apis/ · pos-rms/ · back-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" width="16" height="16" alt="Azure DevOps" /> <code>Azure DevOps</code>&nbsp;&nbsp;&nbsp;
 <img src="https://api.iconify.design/bpmn:connection-multi.svg?color=%233FB950" width="16" height="16" alt="BPMN" /> <code>BPMN</code>&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/swagger/3FB950" width="16" height="16" alt="Swagger/OpenAPI" /> <code>Swagger/OpenAPI</code>&nbsp;&nbsp;&nbsp;
-✦ <code>AI-assisted prototyping</code>
+<img src="https://api.iconify.design/hugeicons:ai-brain-03.svg?color=%233FB950" width="16" height="16" alt="AI-Assist" /> <code>AI-assisted prototyping</code>&nbsp;&nbsp;&nbsp;
 </details>
 <details>
 <summary><code>guest@github:~$ career.evidence</code></summary>
