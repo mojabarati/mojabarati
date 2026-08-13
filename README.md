@@ -8,30 +8,35 @@
 │   > technical execution                              │
 └──────────────────────────────────────────────────────┘
 ```
+<details>
+<summary><code>guest@github:~$ profile.mission</code></summary>
+
 ```text
-guest@github:~$ profile.mission
 > Turn ambiguity into product decisions.
 > Build enough to reduce uncertainty.
 > Ship the smallest useful thing.
 > Measure what actually changed.
 ```
+</details>
+<details>
+<summary><code>guest@github:~$ impact.log</code></summary>
+
 ```text
-guest@github:~$ impact.log
 [3 months]   POS MVP shipped
 [30+]        B2B APIs shipped
 [120B IRR]   loan issuance in 6 months
 [-30%]       CRM support tickets
 
-guest@github:~$ domains
+domains/
 marketplaces/ · ai-products/ · b2b/ · payments/ · apis/ · pos-rms/ · back-office-systems/
 
 > I do not build to replace engineers.
 > I build to reduce product uncertainty, understand constraints,
 > prototype faster, and make better decisions with engineering teams.
 ```
-```text
-guest@github:~$ toolbox
-```
+</details>
+<details>
+<summary><code>guest@github:~$ toolbox</code></summary>
 
 🗄️ <code>SQL</code>&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/postman/3FB950" width="16" height="16" alt="Postman" /> <code>Postman</code>&nbsp;&nbsp;&nbsp;
@@ -53,7 +58,7 @@ guest@github:~$ toolbox
 🔀 <code>BPMN</code>&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/swagger/3FB950" width="16" height="16" alt="Swagger/OpenAPI" /> <code>Swagger/OpenAPI</code>&nbsp;&nbsp;&nbsp;
 ✦ <code>AI-assisted prototyping</code>
-
+</details>
 <details>
 <summary><code>guest@github:~$ career.evidence</code></summary>
 
@@ -74,11 +79,14 @@ Chargoon / Product Manager
 > Delivered a prioritized feature set 25% ahead of schedule.
 ```
 </details>
+<details>
+<summary><code>guest@github:~$ principle</code></summary>
 
 ```text
-guest@github:~$ principle
 > Build to learn. Ship to measure.
 ```
+</details>
+
 `Product Manager` · `Technical Product Thinking` · `Hands-on Prototyping`
 
 [LinkedIn](https://www.linkedin.com/in/mohammadjavadbarati/) · [Email](mailto:mojabarati@gmail.com) · [GitHub](https://github.com/mojabarati)
