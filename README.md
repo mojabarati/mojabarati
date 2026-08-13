@@ -2,8 +2,10 @@
 ┌──────────────────────────────────────────────────────┐
 │   Mohammad Javad Barati                              │
 │   Product Manager who builds                         │
-│   product strategy + business logic                  │
-│   + technical execution                              │
+│                                                      │
+│   > product strategy                                 │
+│   > business logic                                   │
+│   > technical execution                              │
 └──────────────────────────────────────────────────────┘
 ```
 ```diff
