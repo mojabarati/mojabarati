@@ -1,10 +1,10 @@
-```diff
-+ ┌──────────────────────────────────────────────────────┐
-+ │   Mohammad Javad Barati                              │
-+ │   Product Manager who builds                         │
-+ │   product strategy + business logic                  │
-+ │   + technical execution                              │
-+ └──────────────────────────────────────────────────────┘
+```text
+┌──────────────────────────────────────────────────────┐
+│   Mohammad Javad Barati                              │
+│   Product Manager who builds                         │
+│   product strategy + business logic                  │
+│   + technical execution                              │
+└──────────────────────────────────────────────────────┘
 ```
 ```diff
 + guest@github:~$ profile.mission
