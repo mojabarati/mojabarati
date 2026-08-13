@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="650" viewBox="0 0 1200 650">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#010604"/><stop offset="1" stop-color="#020a05"/></linearGradient>
+<pattern id="p" width="120" height="28" patternUnits="userSpaceOnUse"><text x="0" y="18" font-family="monospace" font-size="12" fill="#0b7d32" opacity=".18">7 9 0 3 0 4 1 8 2</text></pattern>
+</defs>
+<rect width="1200" height="650" rx="22" fill="url(#bg)"/>
+<rect width="1200" height="650" rx="22" fill="url(#p)"/>
+<rect x="1" y="1" width="1198" height="648" rx="21" fill="none" stroke="#0b5b2c"/>
+<circle cx="600" cy="78" r="34" fill="#1dff70"/><circle cx="600" cy="70" r="11" fill="#0a7a37"/><ellipse cx="600" cy="91" rx="18" ry="16" fill="#0a7a37"/>
+<text x="600" y="155" text-anchor="middle" font-family="Consolas,monospace" font-size="49" font-weight="800" fill="#35ff79">Mohammad Javad Barati</text>
+<text x="600" y="187" text-anchor="middle" font-family="Consolas,monospace" font-size="15" fill="#22d85f">Product Manager :: Product Lead :: Technical Product Thinking</text>
+<g font-family="Consolas,monospace" text-anchor="middle">
+<g transform="translate(180,245)"><text font-size="32" fill="#35ff79" font-weight="700">3</text><text y="26" font-size="10" fill="#148742">MONTH MVP</text></g>
+<g transform="translate(460,245)"><text font-size="32" fill="#35ff79" font-weight="700">6</text><text y="26" font-size="10" fill="#148742">MONTH MARKET-FIT</text></g>
+<g transform="translate(740,245)"><text font-size="32" fill="#35ff79" font-weight="700">300+</text><text y="26" font-size="10" fill="#148742">VENDOR INTERVIEWS</text></g>
+<g transform="translate(1020,245)"><text font-size="32" fill="#35ff79" font-weight="700">30+</text><text y="26" font-size="10" fill="#148742">B2B APIS SHIPPED</text></g>
+<g transform="translate(180,335)"><text font-size="32" fill="#35ff79" font-weight="700">120B</text><text y="26" font-size="10" fill="#148742">IRR LOAN ISSUANCE</text></g>
+<g transform="translate(460,335)"><text font-size="32" fill="#35ff79" font-weight="700">-30%</text><text y="26" font-size="10" fill="#148742">CRM TICKETS</text></g>
+<g transform="translate(740,335)"><text font-size="32" fill="#35ff79" font-weight="700">+26%</text><text y="26" font-size="10" fill="#148742">TEAM VELOCITY</text></g>
+<g transform="translate(1020,335)"><text font-size="32" fill="#35ff79" font-weight="700">25%</text><text y="26" font-size="10" fill="#148742">AHEAD OF SCHEDULE</text></g>
+</g>
+<rect x="95" y="414" width="1010" height="142" rx="14" fill="#03180b" stroke="#0e7c38"/>
+<circle cx="123" cy="442" r="5" fill="#ff5f56"/><circle cx="141" cy="442" r="5" fill="#ffbd2e"/><circle cx="159" cy="442" r="5" fill="#27c93f"/>
+<text x="188" y="448" font-family="Consolas,monospace" font-size="12" fill="#168c44">~/profile/mission.txt</text>
+<text x="130" y="486" font-family="Consolas,monospace" font-size="15" fill="#38e779"><tspan x="130">&gt; Product Manager who builds - turning product strategy, business logic and technical</tspan><tspan x="130" dy="28">  constraints into validated decisions, working systems and measurable outcomes.</tspan><tspan x="130" dy="28">&gt; I build to reduce uncertainty and make better decisions with engineering teams.</tspan></text>
+<text x="600" y="612" text-anchor="middle" font-family="Consolas,monospace" font-size="11" fill="#0f8b3d">STATUS: ONLINE  //  MODE: BUILDING  //  OUTPUT: IMPACT</text>
+</svg>
