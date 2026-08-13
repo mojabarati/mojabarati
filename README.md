@@ -15,16 +15,12 @@ guest@github:~$ profile.mission
 > Ship the smallest useful thing.
 > Measure what actually changed.
 ```
-[LinkedIn](https://www.linkedin.com/in/mohammadjavadbarati/) · [Email](mailto:mojabarati@gmail.com) · [GitHub](https://github.com/mojabarati)
-
 ```text
 guest@github:~$ impact.log
 [3 months]   POS MVP shipped
-[300+]       vendor interviews
 [30+]        B2B APIs shipped
 [120B IRR]   loan issuance in 6 months
 [-30%]       CRM support tickets
-[+26%]       team velocity in 3 months
 
 guest@github:~$ domains
 marketplaces/ · ai-products/ · b2b/ · payments/ · apis/ · pos-rms/ · back-office-systems/
