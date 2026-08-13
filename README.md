@@ -62,18 +62,11 @@ Chargoon / Product Manager
 > Delivered a prioritized feature set 25% ahead of schedule.
 ```
 </details>
-<details>
-<summary><code>guest@github:~$ pm-who-builds</code></summary>
 
-```text
-PM-WHO-BUILDS
-DESCRIPTION  Product Manager with hands-on technical depth. I go one technical layer deeper when it improves the product decision.
-CAPABILITIES inspect APIs · query data · understand states and permissions · prototype · troubleshoot · discuss trade-offs
-OUTPUT       less ambiguity · better product decisions
-```
-</details>
 ```text
 guest@github:~$ principle
 > Build to learn. Ship to measure.
 ```
-`Product Manager` · `Technical Product Thinking` · `Hands-on Prototyping` · [LinkedIn](https://www.linkedin.com/in/mohammadjavadbarati/) · [Email](mailto:mojabarati@gmail.com) · [GitHub](https://github.com/mojabarati)
+`Product Manager` · `Technical Product Thinking` · `Hands-on Prototyping`
+
+[LinkedIn](https://www.linkedin.com/in/mohammadjavadbarati/) · [Email](mailto:mojabarati@gmail.com) · [GitHub](https://github.com/mojabarati)
