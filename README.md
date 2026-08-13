@@ -31,13 +31,29 @@ marketplaces/ · ai-products/ · b2b/ · payments/ · apis/ · pos-rms/ · back-
 ```
 ```text
 guest@github:~$ toolbox
-SQL            Postman          TypeScript
-JavaScript     Python           Go
-Node.js        Express          PostgreSQL
-Prisma         Git              GitHub
-Figma          Jira             Azure DevOps
-BPMN           Swagger/OpenAPI  AI-assisted prototyping
 ```
+
+🗄️ <code>SQL</code>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/postman/3FB950" width="16" height="16" alt="Postman" /> <code>Postman</code>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/typescript/3FB950" width="16" height="16" alt="TypeScript" /> <code>TypeScript</code>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/javascript/3FB950" width="16" height="16" alt="JavaScript" /> <code>JavaScript</code>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/python/3FB950" width="16" height="16" alt="Python" /> <code>Python</code>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/go/3FB950" width="16" height="16" alt="Go" /> <code>Go</code>
+
+<img src="https://cdn.simpleicons.org/nodedotjs/3FB950" width="16" height="16" alt="Node.js" /> <code>Node.js</code>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/express/3FB950" width="16" height="16" alt="Express" /> <code>Express</code>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/postgresql/3FB950" width="16" height="16" alt="PostgreSQL" /> <code>PostgreSQL</code>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/prisma/3FB950" width="16" height="16" alt="Prisma" /> <code>Prisma</code>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/git/3FB950" width="16" height="16" alt="Git" /> <code>Git</code>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/github/3FB950" width="16" height="16" alt="GitHub" /> <code>GitHub</code>
+
+<img src="https://cdn.simpleicons.org/figma/3FB950" width="16" height="16" alt="Figma" /> <code>Figma</code>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/jira/3FB950" width="16" height="16" alt="Jira" /> <code>Jira</code>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/azuredevops/3FB950" width="16" height="16" alt="Azure DevOps" /> <code>Azure DevOps</code>&nbsp;&nbsp;&nbsp;
+🔀 <code>BPMN</code>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/swagger/3FB950" width="16" height="16" alt="Swagger/OpenAPI" /> <code>Swagger/OpenAPI</code>&nbsp;&nbsp;&nbsp;
+✦ <code>AI-assisted prototyping</code>
+
 <details>
 <summary><code>guest@github:~$ career.evidence</code></summary>
 
