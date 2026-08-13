@@ -89,4 +89,14 @@ Chargoon / Product Manager
 
 `Product Manager` · `Technical Product Thinking` · `Hands-on Prototyping`
 
-[LinkedIn](https://www.linkedin.com/in/mohammadjavadbarati/) · [Email](mailto:mojabarati@gmail.com) · [GitHub](https://github.com/mojabarati)
+<a href="https://www.linkedin.com/in/mohammadjavadbarati/">
+  <img src="https://cdn.simpleicons.org/linkedin/3FB950" width="22" height="22" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="mailto:mojabarati@gmail.com">
+  <img src="https://cdn.simpleicons.org/gmail/3FB950" width="22" height="22" alt="Email" />
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/mojabarati">
+  <img src="https://cdn.simpleicons.org/github/3FB950" width="22" height="22" alt="GitHub" />
+</a>
