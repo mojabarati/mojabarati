@@ -38,7 +38,7 @@ marketplaces/ · ai-products/ · b2b/ · payments/ · apis/ · pos-rms/ · back-
 <details>
 <summary><code>guest@github:~$ toolbox</code></summary>
 
-🗄️ <code>SQL</code>&nbsp;&nbsp;&nbsp;
+<img src="https://api.iconify.design/mdi:database.svg?color=%233FB950" width="16" height="16" alt="SQL" /> <code>SQL</code>&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/postman/3FB950" width="16" height="16" alt="Postman" /> <code>Postman</code>&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/typescript/3FB950" width="16" height="16" alt="TypeScript" /> <code>TypeScript</code>&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/javascript/3FB950" width="16" height="16" alt="JavaScript" /> <code>JavaScript</code>&nbsp;&nbsp;&nbsp;
@@ -54,8 +54,8 @@ marketplaces/ · ai-products/ · b2b/ · payments/ · apis/ · pos-rms/ · back-
 
 <img src="https://cdn.simpleicons.org/figma/3FB950" width="16" height="16" alt="Figma" /> <code>Figma</code>&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/jira/3FB950" width="16" height="16" alt="Jira" /> <code>Jira</code>&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/azuredevops/3FB950" width="16" height="16" alt="Azure DevOps" /> <code>Azure DevOps</code>&nbsp;&nbsp;&nbsp;
-🔀 <code>BPMN</code>&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" width="16" height="16" alt="Azure DevOps" /> <code>Azure DevOps</code>&nbsp;&nbsp;&nbsp;
+<img src="https://api.iconify.design/bpmn:connection-multi.svg?color=%233FB950" width="16" height="16" alt="BPMN" /> <code>BPMN</code>&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/swagger/3FB950" width="16" height="16" alt="Swagger/OpenAPI" /> <code>Swagger/OpenAPI</code>&nbsp;&nbsp;&nbsp;
 ✦ <code>AI-assisted prototyping</code>
 </details>
@@ -90,7 +90,7 @@ Chargoon / Product Manager
 `Product Manager` · `Technical Product Thinking` · `Hands-on Prototyping`
 
 <a href="https://www.linkedin.com/in/mohammadjavadbarati/">
-  <img src="https://cdn.simpleicons.org/linkedin/3FB950" width="22" height="22" alt="LinkedIn" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="22" height="22" alt="LinkedIn" />
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="mailto:mojabarati@gmail.com">
