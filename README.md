@@ -4,205 +4,240 @@
 
 ### Product Manager who builds.
 
-**I turn ambiguous product problems into validated decisions, working prototypes, APIs, and shipped systems.**
+<p>
+  I work where <strong>product strategy</strong>, <strong>business logic</strong>, and <strong>technical execution</strong> meet.
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammad%20Javad%20Barati-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/mohammadjavadbarati/)
-[![Email](https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:mojabarati@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-@mojabarati-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/mojabarati)
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2400&pause=700&color=58A6FF&center=true&vCenter=true&width=760&lines=Turn+ambiguity+into+product+decisions;Prototype+to+reduce+uncertainty;Understand+APIs%2C+data%2C+states+and+failures;Ship+the+smallest+useful+thing;Measure+what+actually+changed" />
+    <img alt="Product Manager who builds" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2400&pause=700&color=0969DA&center=true&vCenter=true&width=760&lines=Turn+ambiguity+into+product+decisions;Prototype+to+reduce+uncertainty;Understand+APIs%2C+data%2C+states+and+failures;Ship+the+smallest+useful+thing;Measure+what+actually+changed" />
+  </picture>
+</p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammad%20Javad%20Barati-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammadjavadbarati/)
+[![Email](https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mojabarati@gmail.com)
 
 </div>
 
 ---
 
-## Product impact
+## Impact over output
 
 <table>
   <tr>
-    <td align="center"><strong>3 months</strong><br/>POS MVP shipped</td>
-    <td align="center"><strong>300+</strong><br/>vendor interviews</td>
-    <td align="center"><strong>30+</strong><br/>B2B APIs shipped</td>
+    <td align="center" width="33%">
+      <h3>3 months</h3>
+      POS MVP shipped
+    </td>
+    <td align="center" width="33%">
+      <h3>300+</h3>
+      vendor interviews
+    </td>
+    <td align="center" width="33%">
+      <h3>30+</h3>
+      B2B APIs shipped
+    </td>
   </tr>
   <tr>
-    <td align="center"><strong>120B IRR</strong><br/>loan issuance in 6 months</td>
-    <td align="center"><strong>-30%</strong><br/>CRM support tickets</td>
-    <td align="center"><strong>+26%</strong><br/>team velocity in 3 months</td>
+    <td align="center">
+      <h3>120B IRR</h3>
+      loan issuance in 6 months
+    </td>
+    <td align="center">
+      <h3>-30%</h3>
+      CRM support tickets
+    </td>
+    <td align="center">
+      <h3>+26%</h3>
+      team velocity in 3 months
+    </td>
   </tr>
 </table>
 
-I have worked across **restaurant POS/RMS, Open Banking, B2B platforms, workflow systems, marketplaces, and AI-enabled tools** — from discovery and product strategy to APIs, back-office flows, technical validation, and delivery.
+<p align="center">
+  <code>Marketplaces</code> ·
+  <code>AI products</code> ·
+  <code>B2B</code> ·
+  <code>Payments</code> ·
+  <code>APIs</code> ·
+  <code>POS / RMS</code> ·
+  <code>Back-office systems</code>
+</p>
 
-> **My edge:** I do not build to replace engineers.
-> I build enough to validate assumptions, understand technical constraints, debug real systems, prototype faster, and make better product decisions with engineering teams.
-
----
-
-## From product problem to working system
-
-```mermaid
-flowchart LR
-    A["User / Business Problem"] --> B["Evidence & Discovery"]
-    B --> C["Product Decision"]
-    C --> D["Flows, Rules & APIs"]
-    D --> E["Prototype / Technical Validation"]
-    E --> F["Engineering Delivery"]
-    F --> G["Measure Impact"]
-    G --> B
-```
-
-My default loop is simple: **understand the problem → reduce uncertainty → build the smallest useful thing → measure what changed.**
+> **I do not build to replace engineers. I build to reduce product uncertainty, understand constraints, prototype faster, and make better decisions with engineering teams.**
 
 ---
 
 ## Selected builds
 
-| Project                                                                                            | Problem I worked on                                                                                                   | What I built                                                                                                                                                                                             |
-| -------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **[Azure DevOps RTL Fixer](https://github.com/mojabarati/azure-devops-rtl-Chrome-Extension)**      | Persian and Arabic work items are hard to read inside an LTR-first Azure DevOps interface.                            | A privacy-first Chrome Manifest V3 extension that detects meaningful RTL content, fixes alignment and BiDi presentation, supports dynamic SPA content, and includes automated validation/release checks. |
-| **[DataGrip Codex ACP Windows Fix](https://github.com/mojabarati/datagrip-codex-acp-windows-fix)** | Integrated Codex in DataGrip could fail with a misleading “agent runtime may be corrupted” error on Windows.          | A reproducible PowerShell diagnostic, repair, verification, backup, and rollback toolkit built from root-cause analysis of the installation flow.                                                        |
-| **[Classberri Backend](https://github.com/mojabarati/classberri-backend)**                         | Teachers and students need a structured platform for class publishing, profiles, authentication, and future bookings. | A TypeScript/Express/PostgreSQL backend with JWT + Google OAuth, role-based access, class lifecycle rules, Prisma, validation, Swagger/OpenAPI, and layered architecture.                                |
-| **[GitHub README Fetcher](https://github.com/mojabarati/github-readme-fetcher)**                   | Fetching raw README content from arbitrary public GitHub repositories should be simple.                               | A small full-stack application with a Go backend and React frontend, including URL validation and error handling.                                                                                        |
-
-<details>
-<summary><strong>Why I built the Azure DevOps RTL Fixer</strong></summary>
-
-<br/>
-
-This is the kind of problem I like: **small surface area, real workflow friction, clear user value**.
-
-The product constraint was not simply “make text RTL.” Mixed Persian/Arabic and English technical language still needed to remain readable, Azure DevOps is dynamically rendered, and the extension should not change stored work-item data.
-
-The solution therefore focuses on:
-
-* local-only content detection;
-* scoped presentation changes instead of rewriting text;
-* mixed RTL/LTR readability;
-* dynamic content handling;
-* minimal browser permissions;
-* testability and safe cleanup when disabled.
-
-**Product lesson:** a narrow tool can still require strong problem framing, edge-case thinking, privacy decisions, and release discipline.
-
-</details>
-
-<details>
-<summary><strong>Why the DataGrip Codex fix matters</strong></summary>
-
-<br/>
-
-The visible error was only a symptom.
-
-The useful work was tracing the installation lifecycle, separating runtime validation from package installation, identifying path/prefix and process-lock behavior, and turning a one-off workaround into a **repeatable diagnostic and repair flow**.
-
-The repository includes:
-
-* diagnostics before mutation;
-* isolated repair;
-* explicit verification;
-* timestamped backups;
-* rollback;
-* documented limitations and alternative causes.
-
-**Product lesson:** good troubleshooting is also product thinking — identify the real failure state, reduce risk, make recovery explicit, and design for users who are not experts.
-
-</details>
-
-<details>
-<summary><strong>Inside the Classberri product architecture</strong></summary>
-
-<br/>
-
-Classberri is where I practice translating product requirements into real system behavior.
-
-Examples include:
-
-* separate `TEACHER` and `STUDENT` roles;
-* email/password and Google authentication;
-* draft → published → closed class lifecycle;
-* ownership and permission rules;
-* public/private profile behavior;
-* free/paid and online/in-person class models;
-* pagination, filtering, validation, and error handling;
-* API documentation with Swagger/OpenAPI.
-
-**Product lesson:** writing a user story is easier when you understand what must happen across the frontend, API, business rules, authentication layer, and database.
-
-</details>
-
----
-
-## How I work as a PM
-
 <table>
   <tr>
-    <td width="33%" valign="top">
-      <strong>01 — Find the real problem</strong><br/><br/>
-      User interviews, workflow observation, data, support signals, business constraints, and root-cause analysis.
+    <td width="50%" valign="top">
+      <h3>↔️ <a href="https://github.com/mojabarati/azure-devops-rtl-Chrome-Extension">Azure DevOps RTL Fixer</a></h3>
+      <strong>Problem</strong><br/>
+      Persian and Arabic work items are difficult to read inside an LTR-first Azure DevOps interface.
+      <br/><br/>
+      <strong>Built</strong><br/>
+      Chrome Manifest V3 extension with RTL detection, mixed-language handling, dynamic DOM support, minimal permissions, tests, and release checks.
+      <br/><br/>
+      <sub><strong>PM lens:</strong> workflow friction · UX edge cases · privacy · release discipline</sub>
     </td>
-    <td width="33%" valign="top">
-      <strong>02 — Reduce uncertainty</strong><br/><br/>
-      Prioritization, flows, business rules, prototypes, API thinking, SQL checks, and technical spikes when needed.
+    <td width="50%" valign="top">
+      <h3>🛠️ <a href="https://github.com/mojabarati/datagrip-codex-acp-windows-fix">DataGrip Codex ACP Fix</a></h3>
+      <strong>Problem</strong><br/>
+      Integrated Codex installation could fail on Windows behind a misleading runtime error.
+      <br/><br/>
+      <strong>Built</strong><br/>
+      Reproducible diagnostics, repair, verification, backup, and rollback tooling based on root-cause analysis.
+      <br/><br/>
+      <sub><strong>PM lens:</strong> symptom vs root cause · safe recovery · operational UX · troubleshooting</sub>
     </td>
-    <td width="33%" valign="top">
-      <strong>03 — Ship & measure</strong><br/><br/>
-      Clear scope, edge cases, engineering alignment, operational readiness, release discipline, and measurable outcomes.
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎓 <a href="https://github.com/mojabarati/classberri-backend">Classberri Backend</a></h3>
+      <strong>Problem</strong><br/>
+      Teachers and students need clear rules for identity, profiles, class publishing, permissions, and future bookings.
+      <br/><br/>
+      <strong>Built</strong><br/>
+      TypeScript / Express / PostgreSQL backend with JWT + Google OAuth, role-based access, lifecycle rules, Prisma, validation, and OpenAPI.
+      <br/><br/>
+      <sub><strong>PM lens:</strong> roles · states · permissions · APIs · business rules · data model</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📄 <a href="https://github.com/mojabarati/github-readme-fetcher">GitHub README Fetcher</a></h3>
+      <strong>Problem</strong><br/>
+      Fetching raw README content from a public GitHub repository should be simple and predictable.
+      <br/><br/>
+      <strong>Built</strong><br/>
+      Small full-stack app with a Go backend and React frontend, including URL validation and explicit error handling.
+      <br/><br/>
+      <sub><strong>PM lens:</strong> narrow scope · API integration · validation · failure handling</sub>
     </td>
   </tr>
 </table>
 
 ---
 
-## Product + technical toolbox
+## How I turn a problem into a product
 
-**Product**
+```mermaid
+flowchart LR
+    A["Problem"] --> B["Evidence"]
+    B --> C["Decision"]
+    C --> D["Rules & Flows"]
+    D --> E["Prototype / Spike"]
+    E --> F["Ship"]
+    F --> G["Measure"]
+    G -. learn .-> B
+```
 
-![Product Strategy](https://img.shields.io/badge/Product-Strategy-5B5BD6?style=flat-square)
-![Discovery](https://img.shields.io/badge/User-Discovery-5B5BD6?style=flat-square)
-![Roadmaps](https://img.shields.io/badge/Product-Roadmaps-5B5BD6?style=flat-square)
-![Metrics](https://img.shields.io/badge/Product-Metrics-5B5BD6?style=flat-square)
-![B2B](https://img.shields.io/badge/B2B-Platforms-5B5BD6?style=flat-square)
-![APIs](https://img.shields.io/badge/API-Products-5B5BD6?style=flat-square)
-
-**Build & Data**
-
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square\&logo=postgresql\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square\&logo=postman\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square\&logo=go\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=nodedotjs\&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square\&logo=express\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square\&logo=prisma\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
-
-**Tools I use to think and communicate**
-
-`Figma` · `Jira` · `Azure DevOps` · `BPMN` · `Swagger / OpenAPI` · `GitHub` · `AI-assisted prototyping`
-
----
-
-## Career snapshots
-
-**TapsiFood — Product Manager**
-Built the company's first restaurant POS product from zero: **MVP in 3 months**, first market-fit version in 6 months, informed by **300+ vendor interviews** and competitor analysis.
-
-**Tourism Bank — Product Manager**
-Shipped **30+ B2B APIs**, helped establish a new Open Banking revenue stream, and supported **120B IRR in loan issuance within the first 6 months** of integrated lending capabilities.
-
-**Chargoon — Product Manager**
-Reduced CRM support tickets by **30%**, increased team velocity by **26% in 3 months**, and delivered prioritized features **25% ahead of schedule**.
+<table>
+  <tr>
+    <td width="25%" valign="top">
+      <strong>01 · Frame</strong><br/><br/>
+      User problem, business goal, actors, constraints, evidence, root cause.
+    </td>
+    <td width="25%" valign="top">
+      <strong>02 · Decide</strong><br/><br/>
+      Scope, trade-offs, MVP, business rules, journeys, metrics, non-goals.
+    </td>
+    <td width="25%" valign="top">
+      <strong>03 · De-risk</strong><br/><br/>
+      Prototype, SQL check, API exploration, technical spike, edge cases, failure states.
+    </td>
+    <td width="25%" valign="top">
+      <strong>04 · Deliver</strong><br/><br/>
+      Engineering alignment, acceptance criteria, operational readiness, release, measurement.
+    </td>
+  </tr>
+</table>
 
 ---
 
-## The products I enjoy most
+## Product thinking with technical depth
 
-I am most interested in product problems where **business logic and technical systems meet**:
+I am most useful on products where a PM needs to understand more than the UI.
 
-`Marketplaces` · `AI products` · `B2B platforms` · `Payments` · `APIs` · `Back-office systems` · `Operational tooling`
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Product</strong><br/><br/>
+      Discovery · Product Strategy · Prioritization · Roadmaps · User Stories · Metrics · B2B · Marketplace Mechanics · Payments · Back-office
+    </td>
+    <td width="50%" valign="top">
+      <strong>Technical fluency</strong><br/><br/>
+      APIs · SQL · Auth · Roles & Permissions · State Machines · Data Models · Validation · Webhooks · Error Handling · Observability · Deployment basics
+    </td>
+  </tr>
+</table>
 
-Especially when the PM needs to understand not only **what users see**, but also what happens across **permissions, APIs, state transitions, data, integrations, failure cases, and operations**.
+### Tools I work with
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+`Figma` · `Jira` · `Azure DevOps` · `BPMN` · `Swagger / OpenAPI` · `AI-assisted prototyping`
+
+---
+
+<details>
+<summary><strong>Career evidence behind the numbers</strong></summary>
+
+<br/>
+
+### TapsiFood — Product Manager
+
+- Built the company's first restaurant POS product from zero.
+- Shipped the **MVP in 3 months** and the first market-fit version in 6 months.
+- Used insights from **300+ vendor interviews** and competitor analysis to define the validated feature set.
+
+### Tourism Bank — Product Manager
+
+- Shipped **30+ B2B APIs** from concept to market.
+- Helped establish a recurring Open Banking revenue stream.
+- Supported **120B IRR in loan issuance within the first 6 months** of integrated lending capabilities.
+
+### Chargoon — Product Manager
+
+- Reduced CRM support tickets by **30%**.
+- Increased team velocity by **26% in 3 months**.
+- Delivered a prioritized feature set **25% ahead of schedule**.
+
+</details>
+
+<details>
+<summary><strong>What “PM who builds” means to me</strong></summary>
+
+<br/>
+
+It does **not** mean turning Product Management into software engineering.
+
+It means being able to go one layer deeper when it improves the product decision:
+
+- inspect an API instead of guessing what it can do;
+- query data instead of relying only on anecdotal feedback;
+- understand authentication, states, permissions, and failure paths;
+- create a prototype when a discussion is too abstract;
+- debug enough to separate a product problem from an implementation issue;
+- discuss trade-offs with engineering using a shared mental model.
+
+The output is not “more code.”
+
+The output is **less ambiguity and better product decisions**.
+
+</details>
 
 ---
 
@@ -210,8 +245,10 @@ Especially when the PM needs to understand not only **what users see**, but also
 
 ### Build to learn. Ship to measure.
 
-If you are working on a product where strong product thinking needs to meet technical execution, feel free to reach out.
+**Product Manager · Technical Product Thinking · Hands-on Prototyping**
 
-[**LinkedIn**](https://www.linkedin.com/in/mohammadjavadbarati/) · [**Email**](mailto:mojabarati@gmail.com) · [**GitHub**](https://github.com/mojabarati)
+[LinkedIn](https://www.linkedin.com/in/mohammadjavadbarati/) ·
+[Email](mailto:mojabarati@gmail.com) ·
+[GitHub](https://github.com/mojabarati)
 
 </div>
