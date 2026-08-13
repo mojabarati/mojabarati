@@ -1,110 +1,136 @@
 <div align="center">
 
-```text
-mohammad@github:~$ whoami
-Mohammad Javad Barati
-Product Manager who builds
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2200&pause=700&color=39FF14&background=0D1117&center=true&vCenter=true&width=850&height=58&lines=root%40github%3A~%24+whoami;Mohammad+Javad+Barati+%7C+Product+Manager+who+builds;root%40github%3A~%24+focus+--product+--technical;Turn+ambiguity+into+product+decisions.;Build+to+learn.+Ship+to+measure." alt="Terminal intro" />
 
-mohammad@github:~$ focus
-product strategy + business logic + technical execution
+<br/>
 
-mohammad@github:~$ mission
-Turn ambiguity into product decisions.
-```
+[![STATUS](https://img.shields.io/badge/STATUS-ONLINE-39FF14?style=for-the-badge&labelColor=0D1117)](https://github.com/mojabarati)
+[![ROLE](https://img.shields.io/badge/ROLE-PRODUCT_MANAGER-39FF14?style=for-the-badge&labelColor=0D1117)](https://github.com/mojabarati)
+[![MODE](https://img.shields.io/badge/MODE-BUILDING-39FF14?style=for-the-badge&labelColor=0D1117)](https://github.com/mojabarati)
 
-[linkedin](https://www.linkedin.com/in/mohammadjavadbarati/) | [email](mailto:mojabarati@gmail.com) | [lets-talk](mailto:mojabarati@gmail.com)
+<br/><br/>
+
+[![LinkedIn](https://img.shields.io/badge/CONNECT-LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=39FF14)](https://www.linkedin.com/in/mohammadjavadbarati/)
+[![Email](https://img.shields.io/badge/CONTACT-EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=39FF14)](mailto:mojabarati@gmail.com)
 
 </div>
 
 ---
 
-## `$ impact`
+## `$ cat /var/log/product-impact.log`
 
 ```text
-[3 months]   POS MVP shipped
-[300+]       vendor interviews
-[30+]        B2B APIs shipped
-[120B IRR]   loan issuance in 6 months
-[-30%]       CRM support tickets
-[+26%]       team velocity in 3 months
+┌───────────────────────────────────────────────────────────────┐
+│ PRODUCT IMPACT                                                │
+├──────────────┬────────────────────────────────────────────────┤
+│ 3 months     │ POS MVP shipped                                │
+│ 300+         │ vendor interviews                              │
+│ 30+          │ B2B APIs shipped                               │
+│ 120B IRR     │ loan issuance in 6 months                      │
+│ -30%         │ CRM support tickets                            │
+│ +26%         │ team velocity in 3 months                      │
+└──────────────┴────────────────────────────────────────────────┘
 ```
 
-```text
-mohammad@github:~$ domains
+```bash
+root@product:~$ ls ./domains
 marketplaces/  ai-products/  b2b/  payments/  apis/  pos-rms/  back-office/
 ```
 
-> `I do not build to replace engineers. I build to reduce product uncertainty, understand constraints, prototype faster, and make better decisions with engineering teams.`
+> `I do not build to replace engineers.`  
+> `I build to reduce product uncertainty, understand constraints, prototype faster, and make better decisions with engineering teams.`
 
 ---
 
-## `$ product-thinking`
+## `$ tree ~/product-thinking`
 
 ```text
-product-thinking/
-+-- product/
-|   +-- discovery
-|   +-- strategy
-|   +-- prioritization
-|   +-- roadmaps
-|   +-- user-stories
-|   +-- metrics
-|   +-- b2b
-|   +-- marketplaces
-|   +-- payments
-|   +-- back-office
-+-- technical-fluency/
-    +-- apis
-    +-- sql
-    +-- auth
-    +-- roles-permissions
-    +-- state-machines
-    +-- data-models
-    +-- validation
-    +-- webhooks
-    +-- error-handling
-    +-- observability
+~/product-thinking
+├── product
+│   ├── discovery
+│   ├── strategy
+│   ├── prioritization
+│   ├── roadmaps
+│   ├── user-stories
+│   ├── metrics
+│   ├── b2b
+│   ├── marketplaces
+│   ├── payments
+│   └── back-office
+│
+└── technical-fluency
+    ├── apis
+    ├── sql
+    ├── auth
+    ├── roles-permissions
+    ├── state-machines
+    ├── data-models
+    ├── validation
+    ├── webhooks
+    ├── error-handling
+    └── observability
 ```
 
-## `$ toolbox`
+---
+
+## `$ ./toolbox --check`
 
 ```text
-SQL       Postman       TypeScript     JavaScript
-Python    Go            Node.js        Express
-PostgreSQL  Prisma      Git            GitHub
-Figma     Jira          Azure DevOps   BPMN
-Swagger/OpenAPI         AI-assisted prototyping
+[FOUND]  SQL                [FOUND]  Postman
+[FOUND]  TypeScript         [FOUND]  JavaScript
+[FOUND]  Python             [FOUND]  Go
+[FOUND]  Node.js            [FOUND]  Express
+[FOUND]  PostgreSQL         [FOUND]  Prisma
+[FOUND]  Git                [FOUND]  GitHub
+[FOUND]  Figma              [FOUND]  Jira
+[FOUND]  Azure DevOps       [FOUND]  BPMN
+[FOUND]  Swagger / OpenAPI  [FOUND]  AI-assisted prototyping
 ```
+
+<p align="center">
+  <img src="https://img.shields.io/badge/API-0D1117?style=flat-square&logo=swagger&logoColor=39FF14" />
+  <img src="https://img.shields.io/badge/SQL-0D1117?style=flat-square&logo=postgresql&logoColor=39FF14" />
+  <img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=39FF14" />
+  <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=39FF14" />
+  <img src="https://img.shields.io/badge/Go-0D1117?style=flat-square&logo=go&logoColor=39FF14" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=39FF14" />
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=39FF14" />
+</p>
 
 ---
 
 <details>
-<summary><code>$ career --evidence</code></summary>
+<summary><code>$ ./career --show-impact</code></summary>
 
 <br/>
 
-### `TapsiFood | Product Manager`
+### `root@career:~/tapsifood$ cat impact.log`
 
 ```text
-MVP:          3 months
-Discovery:    300+ vendor interviews
-Outcome:      first restaurant POS product built from zero
+role          Product Manager
+product       restaurant POS
+mvp           3 months
+research      300+ vendor interviews
+result        first restaurant POS product built from zero
 ```
 
-### `Tourism Bank | Product Manager`
+### `root@career:~/tourism-bank$ cat impact.log`
 
 ```text
-APIs shipped:     30+
-Loan issuance:    120B IRR in first 6 months
-Outcome:          recurring Open Banking revenue stream
+role          Product Manager
+platform      Open Banking / B2B APIs
+apis          30+
+loan-volume   120B IRR in first 6 months
+result        recurring Open Banking revenue stream
 ```
 
-### `Chargoon | Product Manager`
+### `root@career:~/chargoon$ cat impact.log`
 
 ```text
-Support tickets:  -30%
-Team velocity:    +26% in 3 months
-Delivery:         25% ahead of schedule
+role          Product Manager
+support       -30% CRM support tickets
+velocity      +26% in 3 months
+delivery      25% ahead of schedule
 ```
 
 </details>
@@ -115,22 +141,29 @@ Delivery:         25% ahead of schedule
 <br/>
 
 ```text
+PM-WHO-BUILDS(1)                 PRODUCT MANUAL                 PM-WHO-BUILDS(1)
+
 NAME
-    pm-who-builds
+    pm-who-builds - product manager with hands-on technical depth
+
+SYNOPSIS
+    pm-who-builds [problem] [evidence] [constraints] [decision]
 
 DESCRIPTION
-    A Product Manager who can go one technical layer deeper when it improves the product decision.
+    A Product Manager who can go one technical layer deeper when it improves
+    the product decision.
 
 CAPABILITIES
-    API exploration
-    Data queries
-    Auth, states and permissions
-    Prototyping
-    Technical troubleshooting
-    Engineering trade-off discussions
+    --inspect-api        explore APIs instead of guessing
+    --query-data         validate assumptions with data
+    --model-states       reason about states, roles and permissions
+    --prototype          make abstract discussions concrete
+    --debug              separate product problems from implementation issues
+    --tradeoffs          discuss constraints with engineering teams
 
 OUTPUT
-    Less ambiguity. Better product decisions.
+    less ambiguity
+    better product decisions
 ```
 
 </details>
@@ -139,8 +172,8 @@ OUTPUT
 
 <div align="center">
 
-```text
-mohammad@github:~$ echo "Build to learn. Ship to measure."
+```bash
+root@github:~$ echo "Build to learn. Ship to measure."
 Build to learn. Ship to measure.
 ```
 
