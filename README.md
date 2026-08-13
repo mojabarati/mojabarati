@@ -46,38 +46,6 @@
 
 ---
 
-### `guest@github:~$ product-thinking`
-
-```text
-product-thinking/
-├── product/
-│   ├── discovery
-│   ├── product-strategy
-│   ├── prioritization
-│   ├── roadmaps
-│   ├── user-stories
-│   ├── metrics
-│   ├── b2b
-│   ├── marketplace-mechanics
-│   ├── payments
-│   └── back-office
-│
-└── technical-fluency/
-    ├── apis
-    ├── sql
-    ├── auth
-    ├── roles-permissions
-    ├── state-machines
-    ├── data-models
-    ├── validation
-    ├── webhooks
-    ├── error-handling
-    ├── observability
-    └── deployment-basics
-```
-
----
-
 ### `guest@github:~$ toolbox`
 
 ```diff
