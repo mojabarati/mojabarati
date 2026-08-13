@@ -15,8 +15,15 @@
   </picture>
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammad%20Javad%20Barati-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammadjavadbarati/)
-[![Email](https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mojabarati@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohammadjavadbarati/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:mojabarati@gmail.com">
+    <img src="https://img.shields.io/badge/Let's%20Talk-Contact-8250DF?style=for-the-badge&logo=gmail&logoColor=white" alt="Let's Talk" />
+  </a>
+</p>
 
 </div>
 
