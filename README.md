@@ -1,12 +1,12 @@
 ```text
-┌──────────────────────────────────────────────────────┐
-│   Mohammad Javad Barati                              │
-│   Product Manager who builds                         │
-│                                                      │
-│   > product strategy                                 │
-│   > business logic                                   │
-│   > technical execution                              │
-└──────────────────────────────────────────────────────┘
+┌────────────────────────────────┐
+│   Mohammad Javad Barati        │
+│   Product Manager who builds   │
+│                                │
+│   > product strategy           │
+│   > business logic             │
+│   > technical execution        │
+└────────────────────────────────┘
 ```
 <details>
 <summary><code>guest@github:~$ profile.mission</code></summary>
